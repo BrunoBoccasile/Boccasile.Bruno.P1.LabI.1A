@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1666190893 source:c:\programacion\proyectos\parciallaboparte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota.h"
+	"tipos.h"
+	"colores.h"
+	"servicios.h"
+	"trabajos.h"
+
+1666190572 c:\programacion\proyectos\parciallaboparte1\mascota.h
+	"tipos.h"
+	"servicios.h"
+	"colores.h"
+
+1666190322 source:c:\programacion\proyectos\parciallaboparte1\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota.h"
+
+1666187625 source:c:\programacion\proyectos\parciallaboparte1\datawarehouse.c
+	"dataWarehouse.h"
+	<string.h>
+
+1666183297 c:\programacion\proyectos\parciallaboparte1\datawarehouse.h
+	"mascota.h"
+
+1666186319 source:c:\programacion\proyectos\parciallaboparte1\colores.c
+	"colores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666186577 source:c:\programacion\proyectos\parciallaboparte1\servicios.c
+	"servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666186003 source:c:\programacion\proyectos\parciallaboparte1\tipos.c
+	"tipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666191547 source:c:\programacion\proyectos\parciallaboparte1\trabajos.c
+	"trabajos.h"
+	"servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666186003 c:\programacion\proyectos\parciallaboparte1\tipos.h
+
+1666186319 c:\programacion\proyectos\parciallaboparte1\colores.h
+
+1666186577 c:\programacion\proyectos\parciallaboparte1\servicios.h
+
+1666191207 c:\programacion\proyectos\parciallaboparte1\trabajos.h
+	"mascota.h"
+	"servicios.h"
+	"tipos.h"
+	"colores.h"
+
