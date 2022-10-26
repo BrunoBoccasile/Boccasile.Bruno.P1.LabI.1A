@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1666796058 source:c:\programacion\proyectos\parciallaboparte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota.h"
+	"tipos.h"
+	"colores.h"
+	"servicios.h"
+	"trabajos.h"
+	"cliente.h"
+	"validaciones.h"
+
+1666795612 c:\programacion\proyectos\parciallaboparte1\mascota.h
+	"tipos.h"
+	"servicios.h"
+	"colores.h"
+	"cliente.h"
+
+1666797189 source:c:\programacion\proyectos\parciallaboparte1\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"validaciones.h"
+
+1666786704 source:c:\programacion\proyectos\parciallaboparte1\datawarehouse.c
+	"dataWarehouse.h"
+	<string.h>
+
+1666762667 c:\programacion\proyectos\parciallaboparte1\datawarehouse.h
+	"mascota.h"
+
+1666793116 source:c:\programacion\proyectos\parciallaboparte1\colores.c
+	"colores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666792369 source:c:\programacion\proyectos\parciallaboparte1\servicios.c
+	"servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666792314 source:c:\programacion\proyectos\parciallaboparte1\tipos.c
+	"tipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666787069 source:c:\programacion\proyectos\parciallaboparte1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+
+1666761042 c:\programacion\proyectos\parciallaboparte1\tipos.h
+
+1666761042 c:\programacion\proyectos\parciallaboparte1\colores.h
+
+1666763554 c:\programacion\proyectos\parciallaboparte1\servicios.h
+
+1666787052 c:\programacion\proyectos\parciallaboparte1\trabajos.h
+	"mascota.h"
+	"servicios.h"
+	"tipos.h"
+	"colores.h"
+
+1666762667 c:\programacion\proyectos\parciallaboparte1\validaciones.h
+
+1666762667 source:c:\programacion\proyectos\parciallaboparte1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"validaciones.h"
+
+1666786657 source:c:\programacion\proyectos\parciallaboparte1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1666786563 c:\programacion\proyectos\parciallaboparte1\cliente.h
+
