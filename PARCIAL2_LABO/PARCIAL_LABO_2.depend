@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1669817741 source:c:\users\fia\desktop\parcial_labo_2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669804134 c:\users\fia\desktop\parcial_labo_2\linkedlist.h
+
+1669818778 source:c:\users\fia\desktop\parcial_labo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"controller.h"
+	"peliculas.h"
+	"LinkedList.h"
+
+1669812470 source:c:\users\fia\desktop\parcial_labo_2\salida.c
+	<stdio.h>
+	<stdlib.h>
+
+1669817014 source:c:\users\fia\desktop\parcial_labo_2\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1669813948 c:\users\fia\desktop\parcial_labo_2\peliculas.h
+
+1667098020 source:c:\users\fia\desktop\parcial_labo_2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"validaciones.h"
+
+1667099536 c:\users\fia\desktop\parcial_labo_2\validaciones.h
+
+1669818602 source:c:\users\fia\desktop\parcial_labo_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"peliculas.h"
+
+1669814026 c:\users\fia\desktop\parcial_labo_2\controller.h
+	"LinkedList.h"
+
